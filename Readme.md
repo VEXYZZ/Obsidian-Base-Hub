@@ -60,7 +60,7 @@ This vault is ideal for:
 
 1. **Clone this repository**
 ```
-git clone [https://github.com/YOUR-USERNAME/obsidian-base-hub.git](https://github.com/YOUR-USERNAME/obsidian-base-hub.git)
+git clone [https://github.com/rafafields/obsidian-base-hub.git](https://github.com/rafafields/obsidian-base-hub.git)
 ```
 
 2. **Open in Obsidian**
