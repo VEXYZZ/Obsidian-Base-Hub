@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("050 - Daily/items")
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.name
+        direction: DESC

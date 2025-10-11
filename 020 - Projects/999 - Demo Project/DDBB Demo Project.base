@@ -1,0 +1,34 @@
+views:
+  - type: cards
+    name: Team
+    filters:
+      and:
+        - file.inFolder("070 - People/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - rol
+      - email
+  - type: table
+    name: Tasks
+    filters:
+      and:
+        - file.inFolder("040 - Tasks/items")
+        - file.hasLink(this.file.path)
+    order:
+      - status
+      - file.name
+      - proyectos
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - file.inFolder("060 - Meetings/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - proyectos
+      - minutos
+      - invitados
+    columnSize:
+      file.name: 127

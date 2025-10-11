@@ -1,0 +1,17 @@
+## Tasks
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+## Today's meetings
+
+![[DDBB Meetings.base#Daily]]
+
+## Task tracking
+
+![[DDBB Tasks.base#Tracking]]
+
+## Tips for daily notes:
+
+> Remember that you can add tasks or meetings to the tables directly with the `+ New` button that appears at the top of each table, remember to correctly indicate the essential properties (areas or projects) in the quick menu so as not to lose sight of them.

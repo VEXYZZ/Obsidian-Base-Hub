@@ -1,0 +1,35 @@
+views:
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - file.inFolder("060 - Meetings/items")
+    order:
+      - file.name
+      - areas
+      - guests
+      - minutes
+      - projects
+    sort:
+      - property: agendado
+        direction: DESC
+  - type: table
+    name: Daily
+    filters:
+      and:
+        - file.inFolder("060 - Meetings/items")
+        - date(note.scheduled).format("YYYY-MM-DD") == this.file.name
+    order:
+      - file.name
+      - minutos
+      - invitados
+      - proyectos
+      - áreas
+  - type: table
+    name: Linked to
+    filters:
+      and:
+        - file.inFolder("060 - Meetings/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name

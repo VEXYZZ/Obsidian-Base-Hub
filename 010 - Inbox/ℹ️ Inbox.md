@@ -1,3 +1,3 @@
-El objetivo de esta carpeta es recoger información desordenada para poder ser procesada
+The purpose of this folder is to collect unstructured information to be processed
 
 ![[DDBB - Inbox.base]]

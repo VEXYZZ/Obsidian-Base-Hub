@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c034fbfe212b5d9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79f2c5b4fc7e8e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df962f97500ad1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3bde5638c95b46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da302db19a8acba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6da219040788b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "094d1bceaef25073",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4de76a4eccff05a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "438fce2bb72e5823",
+    "type": "split",
+    "children": [
+      {
+        "id": "04672761824280c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2642682edb73b6b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Readme"
+            }
+          },
+          {
+            "id": "6acef450f5166806",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Readme"
+            }
+          },
+          {
+            "id": "661dc0d4db44a9b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7d894aa47362d88b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "df962f97500ad1a4",
+  "lastOpenFiles": [
+    "010 - Inbox/ℹ️ Inbox.md",
+    "010 - Inbox/DDBB - Inbox.base",
+    "020 - Projects/999 - Demo Project/Demo Project.md",
+    "020 - Projects/999 - Demo Project/DDBB Demo Project.base",
+    "030 - Areas/999 - Demo Area/Demo Area.md",
+    "030 - Areas/999 - Demo Area/DDBB Demo Area.base",
+    "030 - Areas/ℹ️ Areas.md",
+    "070 - People/ℹ️ People.md",
+    "040 - Tasks/ℹ️ Tasks.md",
+    "040 - Tasks/status/15 - Done 🟢.md",
+    "040 - Tasks/DDBB Tasks.base",
+    "040 - Tasks/items/Demo task 1.md",
+    "040 - Tasks/items/Demo task 2.md",
+    "040 - Tasks/items/Demo task 3.md",
+    "040 - Tasks/items/Demo task 4.md",
+    "040 - Tasks/items/Demo task 5.md",
+    "040 - Tasks/items/Demo task 6.md",
+    "040 - Tasks/status/11 - Paused 🟡.md",
+    "040 - Tasks/status/10 - In progress 🟣.md",
+    "040 - Tasks/status/06 - Blocked🔴.md",
+    "040 - Tasks/status/05 - Defined 🔵.md",
+    "040 - Tasks/status/00 - Undefined ⚪.md",
+    "050 - Daily/DDBB Dailty.base",
+    "040 - Tasks/status",
+    "040 - Tasks/items",
+    "040 - Tasks",
+    "050 - Daily/ℹ️ Daily.md",
+    "060 - Meetings/items/Demo Meeting.md",
+    "060 - Meetings/DDBB Meetings.base",
+    "060 - Meetings/ℹ️ Meetings.md",
+    "070 - People/DDBB People.base",
+    "070 - People/items/Rafa Campos.md",
+    "070 - People/items/Stakeholder 1.md",
+    "070 - People/items/Compañero 1.md",
+    "020 - Projects/ℹ️ Projects.md",
+    "010 - Inbox/items/Chaotic note.md"
+  ]
+}

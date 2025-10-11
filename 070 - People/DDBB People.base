@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.inFolder("070 - People/items")
+    order:
+      - file.name
+      - rol
+      - projects
+      - areas
+      - email
+    columnSize:
+      note.rol: 131
