@@ -93,12 +93,12 @@ git clone [https://github.com/rafafields/obsidian-base-hub.git](https://github.
 
 ```
 ├── 010 - Inbox/ # Quick capture notes  
-├── 020 - People/ # Contacts database  
-├── 030 - Meetings/ # Meeting notes  
-├── 040 - Projects/ # Time-bound projects  
-├── 045 - Areas/ # Ongoing work areas  
+├── 020 - Projects/ # Time-bound projects  
+├── 030 - Areas/ # Ongoing work areas  
+├── 040 - Tasks/ # Task management
 ├── 050 - Daily/ # Daily journal  
-├── 060 - Tasks/ # Task management  
+├── 060 - Meetings/ # Meeting notes  
+├── 070 - People/ # Contacts database    
 └── 999 - Templates/ # Note templates
 ```
 
