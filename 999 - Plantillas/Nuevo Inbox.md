@@ -1,0 +1,5 @@
+---
+procesado:
+proyectos:
+áreas:
+---

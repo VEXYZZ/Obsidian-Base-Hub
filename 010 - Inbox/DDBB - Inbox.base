@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.inFolder("010 - Inbox/items")
+    order:
+      - file.name
+      - procesado
+      - proyectos
+      - áreas
+    sort:
+      - property: procesado
+        direction: ASC

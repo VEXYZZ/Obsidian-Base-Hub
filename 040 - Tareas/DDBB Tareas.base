@@ -1,0 +1,135 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: status
+        direction: ASC
+  - type: table
+    name: ⚪ Sin definir
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: 🔵 Definido
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: 🔴 Bloqueado
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: 🟣 En proceso
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: 🟡 En pausa
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: 🟢 Entregado
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - file.hasLink(this.file.path)
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+      - jornadas
+    sort:
+      - property: áreas
+        direction: ASC
+      - property: proyectos
+        direction: ASC
+  - type: table
+    name: Seguimiento
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/items")
+        - '!file.hasLink("040 - Tareas/status/15 - Entregado 🟢")'
+    order:
+      - file.name
+      - status
+      - proyectos
+      - áreas
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 271
+  - type: cards
+    name: Estados
+    filters:
+      and:
+        - file.inFolder("040 - Tareas/status")
+    order:
+      - file.name
+    cardSize: 200
