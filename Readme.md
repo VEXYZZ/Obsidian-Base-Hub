@@ -36,6 +36,6 @@ All components have been created to facilitate work management in projects with 
 		2. Modify these templates over time to adapt them to your case
 	3. Go to Settings > Daily notes
 		1. Configure the location of the new file in `050 - Dialy / Items`
-		2. Configure the location of the base template as `999 - Dialy note
+		2. Configure the location of the base template as `999 - Dialy note`
 4. Add custom properties for your work context
 5. Contact [[Rafa Campos]] to request or share possible improvements
