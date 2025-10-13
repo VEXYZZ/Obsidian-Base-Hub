@@ -1,7 +1,7 @@
 ---
-áreas:
+areas:
   - "[[Demo Area]]"
-proyectos:
+projects:
   - "[[Demo Project]]"
 status: "[[05 - Defined 🔵]]"
 ---

@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "998 - Attachments"
 }

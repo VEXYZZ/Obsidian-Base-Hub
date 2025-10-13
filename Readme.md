@@ -59,8 +59,6 @@ This vault is ideal for:
 ### Installation
 
 1. **Clone this repository**
-
-
 2. **Open in Obsidian**
 - Launch Obsidian
 - Select "Open folder as vault"
@@ -74,9 +72,10 @@ This vault is ideal for:
 2. **Populate People Database**
 - Complete your contacts in `ℹ️ People`
 
-3. **Configure Templates**
+1. **Configure Templates and routes**
 - Go to Settings > Templates
 - Set `999 - Templates` folder as template directory
+- Set `998 - Attachments` folder as template attachment directory 
 - Use "Insert template" button (📄 icon) when creating Meetings or People
 
 4. **Setup Daily Notes**
@@ -97,6 +96,7 @@ This vault is ideal for:
 ├── 050 - Daily/ # Daily journal  
 ├── 060 - Meetings/ # Meeting notes  
 ├── 070 - People/ # Contacts database    
+├── 998 - Attachments/ # Attachments directoy   
 └── 999 - Templates/ # Note templates
 ```
 
@@ -108,19 +108,13 @@ The vault is pre-configured with sensible defaults, but you can customize:
 - Database views and filters
 - Folder structure (though recommended to keep as-is)
 
-## 🤝 Contributing
-
-Feedback and improvement suggestions are welcome! Feel free to:
-- Open an issue for bugs or feature requests
-- Submit pull requests with improvements
-- Share your customizations and use cases
-
 ## 👤 Author
 
 **Rafa Campos**
+- Product design unicorn 🦄
 - Specializing in information management systems for projects and businesses
 - Available for consultations and custom implementations
-- Contact: [Your contact method]
+- Contact: flowmaxime@gmail.com
 
 ## 📄 License
 

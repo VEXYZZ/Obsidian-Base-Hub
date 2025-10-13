@@ -21,10 +21,10 @@ views:
         - date(note.scheduled).format("YYYY-MM-DD") == this.file.name
     order:
       - file.name
-      - minutos
-      - invitados
-      - proyectos
-      - áreas
+      - guests
+      - scheduled
+    columnSize:
+      file.name: 128
   - type: table
     name: Linked to
     filters:

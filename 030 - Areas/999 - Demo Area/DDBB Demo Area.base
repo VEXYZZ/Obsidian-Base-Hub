@@ -18,7 +18,11 @@ views:
     order:
       - status
       - file.name
-      - proyectos
+      - projects
+      - areas
+    sort:
+      - property: proyectos
+        direction: ASC
   - type: table
     name: Meetings
     filters:

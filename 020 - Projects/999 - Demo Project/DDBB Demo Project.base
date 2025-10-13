@@ -9,6 +9,7 @@ views:
       - file.name
       - rol
       - email
+      - projects
   - type: table
     name: Tasks
     filters:
@@ -18,7 +19,8 @@ views:
     order:
       - status
       - file.name
-      - proyectos
+      - projects
+      - areas
   - type: table
     name: Meetings
     filters:

@@ -2,7 +2,7 @@
 minutes: 60
 guests:
   - "[[Stakeholder 1]]"
-  - "[[Compañero 1]]"
+  - "[[John Doe]]"
 areas:
   - "[[Demo Area]]"
 projects:
